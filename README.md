@@ -2,7 +2,7 @@
 
 Solutions to some of the coding problems from popular websites. Currently, there are solutions to questions from the below mentioned websites:
 
-*	[LeetCode](LeetCode/ "LeetCode")
+*	[LeetCode](leetCode/ "LeetCode")
 *	[CodeChef](CodeChef/ "CodeChef")
 *	[Codeforces](Codeforces/ "Codeforces")
 *	[Gulf Programming Contest](Gulf%20Programming%20Contest/ "GPC")
