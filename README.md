@@ -5,7 +5,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **1650**
+Number of problems solved: **1688**
 
 ### Codeforces
 
@@ -25,15 +25,15 @@ Number of problems solved: **1650**
 
 | Type   | Solved |
 |:------:|:------:|
-| Easy   | 26     |
-| Medium | 30     |
-| Hard   | 6      |
-| Total  | 62     |
+| Easy   | 32     |
+| Medium | 57     |
+| Hard   | 16     |
+| Total  | 105    |
 
 
 ### SPOJ
 
 | Type   | Solved |
 |:------:|:------:|
-| Total	 | 22    |
+| Total	 | 22     |
 
